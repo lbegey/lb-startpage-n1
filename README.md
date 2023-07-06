@@ -1,6 +1,6 @@
 # lb-startpage-n1
 Startpage for your browser &lt;3
-<br>
+<br><br>
 <img src="./preview.png">
 <br>
 
